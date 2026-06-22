@@ -1,0 +1,15 @@
+# Virtual env
+.venv/
+venv/
+
+# Generated data / vector stores / warehouse
+data_store/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# OS
+.DS_Store

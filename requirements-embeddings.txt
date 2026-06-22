@@ -1,0 +1,2 @@
+# Optional: high-quality semantic embeddings. Auto-detected at runtime.
+sentence-transformers>=2.2
